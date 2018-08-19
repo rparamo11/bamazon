@@ -26,18 +26,28 @@ Watch the demo below.
 [Bamazon Demo]
 
 ###### Screenshots
+
+1. Here I have already created our database and our javascript file. At the bottom, in the terminal I install "npm install mysql".
 ![Screenshot](/screenshots/bamazon1.png)
 
+2. After installing mysql package I install "npm install inquirer". 
 ![Screenshot](/screenshots/bamazon2.png)
 
+3. Here we go into our MySQL database and table we created. 
 ![Screenshot](/screenshots/bamazon3.png)
 
+4. This shows our table that we created with the items (unique-id, product name,department, price and stock quantity). We will be looking at item #2. We see the 
+   quantity is 2. 
 ![Screenshot](/screenshots/bamazon4.png)
 
+5. Here we run our bamazonCustomer.js via NODE in the terminal to execute the application by typin "node bamazonCustomer.js"
 ![Screenshot](/screenshots/bamazon5.png)
 
+6. Here we are connected to the server and the list of items populates and the 1st prompt asks us to select an item. 
 ![Screenshot](/screenshots/bamazon6.png)
 
+7. Here we have selected item #2, which costs $40. Pay attention to the quantity available, which is 5. 
 ![Screenshot](/screenshots/bamazon7.png)
 
+8. Our last slide shows that we have updated our MySQL database. Look at item number 2. We started with a quantity of 5 and now we have 3. 
 ![Screenshot](/screenshots/bamazon8.png)
