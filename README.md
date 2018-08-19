@@ -23,7 +23,7 @@ To run the customer interface please follow the steps below:
 
 ## Bamazon Demo
 Watch the demo below. 
-[Bamazon Demo] (https://drive.google.com/file/d/1KpPCRGxsQwW0g3UYSwpZcEzIBrJNO_U0/view?usp=sharing)
+(https://drive.google.com/file/d/1KpPCRGxsQwW0g3UYSwpZcEzIBrJNO_U0/view?usp=sharing)
 
 ## Screenshots
 
