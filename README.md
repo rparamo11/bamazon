@@ -26,18 +26,18 @@ Watch the demo below.
 [Bamazon Demo]
 
 ###### Screenshots
-![Screenshot](/bamazon1.png)
+![Screenshot](/screenshots/bamazon1.png)
 
-![Screenshot](/bamazon2.png)
+![Screenshot](/screenshots/bamazon2.png)
 
-![Screenshot](/bamazon3.png)
+![Screenshot](/screenshots/bamazon3.png)
 
-![Screenshot](/bamazon4.png)
+![Screenshot](/screenshots/bamazon4.png)
 
-![Screenshot](/bamazon5.png)
+![Screenshot](/screenshots/bamazon5.png)
 
-![Screenshot](/bamazon6.png)
+![Screenshot](/screenshots/bamazon6.png)
 
-![Screenshot](/bamazon7.png)
+![Screenshot](/screenshots/bamazon7.png)
 
-![Screenshot](/bamazon8.png)
+![Screenshot](/screenshots/bamazon8.png)
